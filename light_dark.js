@@ -58,3 +58,7 @@ $(document).ready(function(){
     });
 
 }); // End load document
+
+
+// Learn details https://techidem.com/light-dark-mode-jquery-toggle-using-localstorage/
+
